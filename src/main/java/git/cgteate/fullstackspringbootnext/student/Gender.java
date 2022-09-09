@@ -1,4 +1,4 @@
-package student;
+package git.cgteate.fullstackspringbootnext.student;
 
 public enum Gender {
     MALE,

@@ -1,4 +1,4 @@
-package student;
+package git.cgteate.fullstackspringbootnext.student;
 
 import java.util.Arrays;
 import java.util.List;
